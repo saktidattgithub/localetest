@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello World Localize</string>
+    <string name="english">English</string>
+    <string name="chinese">Chinese</string>
+    <string name="hindi">Hindi</string>
+    <string name="hellow">Hello World</string>
+</resources>

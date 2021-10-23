@@ -1,0 +1,9 @@
+{
+  "en": [{"hellow":"Hello World"}],
+
+  "ch" : [{"hellow":"你好，世界"}] ,
+
+  "hi" : [{"hellow":"नमस्ते दुनिया"}]
+
+
+}
